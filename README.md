@@ -1,3 +1,3 @@
 MERNSTACK Foundation Course by Ethnus 
 
-by Leevesh Kumar (22BCE10999) VIT Bhopal
+by Sujit Khond (22BCE11637) VIT Bhopal
